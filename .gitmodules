@@ -1,4 +1,4 @@
 [submodule "drawio"]
 	path = drawio
-	url = https://github.com/doss-eeic/2024-03-drawio
+	url = https://github.com/doss-eeic/2024-10-drawio
 	branch = dev
